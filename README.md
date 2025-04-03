@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Tabby :)
+- 🌱 I’m currently learning everything I can about building apps and best practices!
+
 <!--
 **BakeSmash/BakeSmash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
