@@ -2,8 +2,7 @@
 I'm passionate about software development and innovation. I believe AI is transforming the accessibility of technology creation, which motivates me to master fundamental engineering principles and best practices to stay well-rounded while embracing the future of technology
 
 - 🔭 I'm currently working on:
-  - **Tabby** - a lightweight note-taking app with intuitive tab organization, perfect for capturing ideas and information on the fly
-  - **[VibeCraft](https://vibecraft.space)** - an element crafting game where players combine different elements to create new ones
+  - **RetroCraft** - an element crafting game where players combine different elements to create new ones
 - 🌱 I'm currently learning everything I can about software development and exploring best practices
 
 <!--
