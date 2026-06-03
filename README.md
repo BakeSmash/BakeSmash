@@ -1,19 +1,13 @@
 ## Howdie, I'm Nic 👋
-I'm passionate about software development and innovation. I believe AI is transforming the accessibility of technology creation, which motivates me to master fundamental engineering principles and best practices to stay well-rounded while embracing the future of technology
 
-- 🔭 I'm currently working on:
-  - **VibeCraft** - an element crafting game where players combine different elements to create new ones
-- 🌱 I'm currently learning everything I can about software development and exploring best practices
+Creative at heart, developer in mind. I'm early in my journey — using modern AI tooling to build real, working products while I grow the engineering fundamentals underneath.
 
-<!--
-**BakeSmash/BakeSmash** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Currently building:** a full-stack SaaS platform that helps veterans navigate and maximize their VA disability claims - React + Node/Express + PostgreSQL, with AI woven through document analysis and workflow automation.
+- 🧠 **How I work:** I lean on AI as a daily tool, but dig into the *why* so I understand what I'm shipping - not just that it works.
+- 🌱 **Always learning:** system design, best practices, and how to get the most out of LLMs as an engineering partner.
+
+### 🛠️ Tech I work with
+JavaScript · React · Node.js / Express · PostgreSQL · Tailwind CSS / shadcn/ui · building with LLMs (OpenAI / Claude)
+
+### 📫 Reach me
+- ✉️ nicbakerpro@gmail.com
